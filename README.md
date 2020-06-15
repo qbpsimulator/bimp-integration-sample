@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Get started
+
+For iframe integration, copy .env.sample file to .env sample and configure the account you want to use.
+
+To run the sample:
+
+```
+npm install
+npm start
+```
+
+Navigate to http://localhost:3000/
+
 ## Available Scripts
 
 In the project directory, you can run:
